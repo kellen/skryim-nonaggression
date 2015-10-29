@@ -7,7 +7,7 @@ This patch works, but is barely tested.
 
 ## Prerequisites 
 
-Clone [my fork](/kellen/skyproc-library/) of [DienesToo's skyproc](https://bitbucket.org/DienesToo/skyproc-library) and install the dependencies for skyproc into your local maven and then build and install skyproc into your local maven.
+Clone [my fork](http://github.com/kellen/skyproc-library/) of [DienesToo's skyproc](https://bitbucket.org/DienesToo/skyproc-library) and install the dependencies for skyproc into your local maven and then build and install skyproc into your local maven.
 
 ## Build the distributable zip file
 
