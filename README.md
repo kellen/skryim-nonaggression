@@ -15,7 +15,7 @@ Clone [my fork](http://github.com/kellen/skyproc-library/) of [DienesToo's skypr
 mvn clean package
 ```
 
-The `target/NonAggression.zip` file can be installed with Nexus Mod Manager (NMM) and run via SkyProc Unified Manager (SUM).
+The `target/NonAggression.zip` file can be installed with Nexus Mod Manager (NMM) and run directly or via SkyProc Unified Manager (SUM).
 
 ## Debugging
 
