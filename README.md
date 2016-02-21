@@ -3,6 +3,8 @@ NonAggression
 
 For people who think Skyrim is too scary; a SkyProc patcher which makes all NPCs cowardly and unaggressive.
 
+Having a "no monsters" version would potentially be better, but this was easier.
+
 This patch works, but is barely tested.
 
 ## Prerequisites 
